@@ -1,1 +1,1 @@
-"# char-realtime" 
+"# chat-realtime" 
